@@ -1,0 +1,150 @@
+.travel-img {
+    /* border: 1px solid black; */
+    height: 580px;
+    margin-top: 65px;
+    width: 600px;
+    border-radius: 5px;
+    margin-right: 40px;
+}
+
+body {
+    background-color: #B1C267;
+}
+
+.sign-page {
+    display: flex;
+}
+
+.sign-up-form {
+    /* border: 1px solid black; */
+    width: 820px;
+    height: 580px;
+    margin-top: 65px;
+    margin-left: 42px;
+    background-color: white;
+    border-radius: 5px;
+}
+
+img {
+    opacity: 0.9;
+}
+
+::placeholder {
+    font-family: 'Gentium Basic', serif;
+    font-size: 15px;
+    color: white;
+    /* text-shadow: 1px 1px black; */
+  }
+
+.title-text span {
+    color: #1F96BC;
+}
+
+i {
+    color: #38AED3;
+}
+
+.title-text  {
+    color: #036887;
+    margin: 10px;
+}
+#map {
+    font-size: 50px;
+    margin-top: 20px;
+}
+
+.title-text {
+    font-family: 'Amatic SC', cursive;
+    font-size: 40px;
+}
+
+.email {
+    border: 1px solid rgb(183, 237, 164);
+    border-bottom: 1px solid white;
+    margin-bottom: 20px;
+}
+
+.username {
+    border: 1px solid rgb(183, 237, 164);
+    border-bottom: 1px solid white;
+    margin-bottom: 20px;
+}
+
+.password {
+    border: 1px solid rgb(183, 237, 164);
+    border-bottom: 1px solid white;
+    margin-bottom: 20px;
+}
+
+.guide {
+    margin-left: 100px;
+}
+
+.choose-type {
+    font-family: 'Amatic SC', cursive;
+    margin-top: 30px;
+    font-size: 25px;
+    text-shadow: 1px 1px black;
+    color: white;
+}
+
+input {
+    background-color: rgb(183, 237, 164);
+}
+
+.choose-type h3 {
+    margin: 0;
+    margin-bottom: 10px;
+}
+
+.create-account-text {
+    font-family: 'Permanent Marker', cursive;
+    color: white;
+    text-shadow: 1px 1px black;
+    font-size: 20px;
+}
+
+.form-section {
+    background-color: rgb(183, 237, 164);
+    width: 450px;
+    margin-left: 150px;
+    height: 340px;
+    border: 1px solid black;
+    border-radius: 5px;
+}
+
+.started-button {
+    width: 150px;
+    height: 30px;
+    border-radius: 5px;
+    background-color: #38AED3;
+    font-family: 'Permanent Marker', cursive;
+    color: white;
+    font-size: 15px;
+    text-shadow: 1px 1px black;
+}
+
+.sign-link {
+    text-decoration: none;
+    color: #0FB76F;
+    font-family: 'Amatic SC', cursive;
+    font-size: 35px;
+    text-shadow: 1px 1px black;
+}
+
+.login-link {
+    text-decoration: none;
+    color: #0FB76F;
+    font-family: 'Amatic SC', cursive;
+    font-size: 35px;
+    text-shadow: 1px 1px black;
+}
+
+.Links {
+    display: flex;
+    justify-content: space-evenly;
+    font-weight: bolder;
+    font-size: 20px;
+    margin-top: 20px;
+}
+
